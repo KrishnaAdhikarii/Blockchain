@@ -25,3 +25,12 @@ This project is a basic implementation of a blockchain using JavaScript. It demo
 - **crypto-js**: Install the `crypto-js` package for SHA256 hashing:
   ```bash
   npm install crypto-js
+
+## Key Learnings
+-**Hashing**: How hash functions ensure data integrity.
+-**Blockchain Structure**: The role of the previous block's hash in linking blocks.
+-**Validation**: How tampering is detected by recalculating hashes.
+## Future Improvements
+-Add proof-of-work (PoW) for mining blocks.
+-Introduce wallets and transactions.
+-Implement a peer-to-peer network for distributed consensus.
