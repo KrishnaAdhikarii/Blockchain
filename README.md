@@ -1,6 +1,4 @@
-Here’s an edited and polished version of your `README.md`:
 
----
 
 # Blockchain Implementation with Proof of Work
 
